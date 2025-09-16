@@ -1,9 +1,13 @@
 /* Your CSS Code here. */
-.questions{
+blockquote.questions{
 	background-color:#f8fffe;
 	height:50px;
 	margin-top:20px;
 	max-width:600px;
 	border-left:8px solid green;
 	box-sizing:border-box;
+	padding:15px;
+}
+blockquote.questions p{
+	margin:0;
 }
